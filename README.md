@@ -31,6 +31,7 @@
 | 2019.8.23 | [[8월] DevOps on NAVER Cloud Platform](https://event-us.kr/navercloudplatform/event/9168) | 서울강남 | Ncloud, Terrafrom, DevOps |  |
 | 2019.8.24 | [[뱅크샐러드 컨퍼런스] 콘-샐러드](https://consalad.com/) | 서울여의도 | 파이썬 | 유료 |
 | 2019.8.26 | [Kotlin/Everywhere Seoul 2019](https://festa.io/events/422) | 서울강남 | Kotlin, JetBrains, Google | 유료 |
+| 2019.8.26 | [AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/264181522/) | 서울 서초 | AWS | 유료 |
 | 2019.8.27 | [KT S/W Developer Conference 2019](https://www.onoffmix.com/event/183913) | 서울서초            | 5G, AR-VR, IoT, AI                     | 무료 |
 | 2019.8.27 | [[TOAST FORWARD]GAME TALK](https://www.onoffmix.com/event/189333) | 경기성남            | 글로벌서비스, 게임보안, Toast Gamebase | 무료 |
 | 2019.8.27 | [2019 호남정보보호 컨퍼런스 및 정보보호 역량강화 워크숍 개최](https://www.onoffmix.com/event/186695) | 전남나주 | 정보보호, AI, 인공지능 | 무료 |
@@ -80,3 +81,5 @@
 * [윤 재석](mailto:yjaeseok@gmail.com)
 * [이 민석](mailto:ykhl1itj@gmail.com)
 * [이 하늘](mailto:lee.haneul@gmail.com)
+* [정 두수](mailto:doosoo.jung@gmail.com)
+
